@@ -2,18 +2,18 @@
 Pyber Analysis Report - Module 5
 
 ## Purpose
-This is a summary DataFrame of the key metrics for ride-sharing data by city type, with a multiple-line graph showing the total fares for each week by city type. The results of the analysis are presented in the following report.
+* This is a summary DataFrame of the key metrics for ride-sharing data by city type, with a multiple-line graph showing the total fares for each week by city type. The results of the analysis are presented in the following report.
 
 ## Resources
 - Data Source: city_data.csv, ride_data.csv
 - Software: Python 3.6.9, Anaconda Navigator 1.9.7, Jupyter Notebook 6.0.1
 
 ## Overview of the analysis
-The goal of this written report is to compile a DataFrame that summarizes ride-sharing data by city type. This report will feature multiple-line graphs of total weekly fares for each city type, created with the Pandas and Matplotlib tools.
+* The goal of this written report is to compile a DataFrame that summarizes ride-sharing data by city type. This report will feature multiple-line graphs of total weekly fares for each city type, created with the Pandas and Matplotlib tools.
 
 
 ## Results
-The table below shows a summary of ride-sharing data by city type. For each city type, it displays the average fare per ride and the average fare per driver.
+* The table below shows a summary of ride-sharing data by city type. For each city type, it displays the average fare per ride and the average fare per driver.
 
 ![Pyber_Date](https://user-images.githubusercontent.com/93852380/146655764-27c709fd-7232-469e-ad2f-b0cfbbcb6a03.png)
 
